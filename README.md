@@ -36,7 +36,7 @@ Hand-Remote Mouse is a project that enables users to control their computer mous
 
 2. Install required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install opencv-python mediapipe pyautogui numpy
    ```
 
 3. (Add instructions for hardware setup, if applicable)
